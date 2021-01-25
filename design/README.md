@@ -5,10 +5,10 @@ Basically start with an Evennia "talker" style mud. Implement the minimum functi
 
 ## Disable default commands that allow free form communication.
 
-[_] all channels
-[_] say
-[_] whisper
-[_] pose
+* all channels
+* say
+* whisper
+* pose
 
 ## Implement Communication commands
 * Attitudes
